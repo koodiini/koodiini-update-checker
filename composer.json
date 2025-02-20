@@ -1,0 +1,11 @@
+{
+    "name": "koodiini/update-checker",
+    "description": "A shared library for checking plugin and theme updates.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Koodiini\\UpdateChecker\\": "src/"
+        }
+    },
+    "require": {}
+}
